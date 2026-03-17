@@ -1,0 +1,5 @@
+RQ P0 40 F
+RQ P1 80 F
+RQ P2 80 F
+RL P1
+STAT -v
